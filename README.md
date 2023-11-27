@@ -1,33 +1,16 @@
-## EN
 # [KapT-SelfBot](https://t.me/kapt_self_bot)
-## Self bot that was supposed to be released a year ago, but I scored on it
-# Customization:
-We go into cong.json and set it as it was already written there
-
-## A little about selfies:
-Self is multifunctional, it will improve (if I'm not too lazy)
-
-## News about self bot - https://t.me/kapt_self_bot
-
-What is not working?
-
-Write to me in **[PM](https://discord.com/users/889918463546650644)**
-
-## RU
-# [KapT-SelfBot](https://t.me/kapt_self_bot)
-## Селф бот который должен был выйти год назад, но я забил на него
-
+## Форк селф-бота от KapTaBka, а именно KapT-Self-Bot. Переделан интерфейс и всё отлично сделано
 
 # Настройка:
-Заходим в cong.json и ставим так, как было уже там написанно
+Заходим в cfg.json и напишите в "YOUR_TOKEN" свой токен. Не работает с ботами.
 
 ## Немного о селфе:
-Селф многофункционален, он будет улучшаться ( если мне не будет лень )
+Селф многофункционален, он будет обновляться по каждой обнове от создателя.
 ## Почему он на английском?
-**Картавый**, точнее я, делал его для всех, и планировал сделать переключения языка, но было лень и передумал, иб сделаю. Не понимаете языка? Либо учите английский, либо не используйте селфа.
+**Картавый**, делал его для всех, и планировал сделать переключения языка, но было лень и передумал, иб сделаю. Не понимаете языка? Либо учите английский, либо не используйте селфа, либо делайте сами локализацию.
 
 ## Новости про селф бота - https://t.me/kapt_self_bot
 
-Че то не работвет?
+Что-то не работвет?
 
-Пишите мне в **[личку](https://discord.com/users/445954543230910465)**
+Пишите мне в **[личку](https://discord.com/users/419159175009009675)**
